@@ -1,0 +1,73 @@
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\obj\Debug\net5.0\dotnetTodoRefactor.GeneratedMSBuildEditorConfig.editorconfig
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\obj\Debug\net5.0\dotnetTodoRefactor.AssemblyInfoInputs.cache
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\obj\Debug\net5.0\dotnetTodoRefactor.AssemblyInfo.cs
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\obj\Debug\net5.0\dotnetTodoRefactor.csproj.CoreCompileInputs.cache
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\obj\Debug\net5.0\dotnetTodoRefactor.MvcApplicationPartsAssemblyInfo.cs
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\obj\Debug\net5.0\dotnetTodoRefactor.MvcApplicationPartsAssemblyInfo.cache
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\appsettings.Development.json
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\appsettings.json
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\client\package-lock.json
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\client\package.json
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\client\public\manifest.json
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\dotnetTodoRefactor.exe
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\dotnetTodoRefactor.deps.json
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\dotnetTodoRefactor.runtimeconfig.json
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\dotnetTodoRefactor.runtimeconfig.dev.json
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\dotnetTodoRefactor.dll
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\ref\dotnetTodoRefactor.dll
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\dotnetTodoRefactor.pdb
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\DotNetEnv.dll
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\Npgsql.dll
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\Sprache.dll
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\obj\Debug\net5.0\scopedcss\bundle\dotnetTodoRefactor.styles.css
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\obj\Debug\net5.0\staticwebassets\dotnetTodoRefactor.StaticWebAssets.Manifest.cache
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\obj\Debug\net5.0\dotnetTodoRefactor.RazorTargetAssemblyInfo.cache
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\obj\Debug\net5.0\dotnetTodoRefactor.csproj.CopyComplete
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\obj\Debug\net5.0\dotnetTodoRefactor.dll
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\obj\Debug\net5.0\ref\dotnetTodoRefactor.dll
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\obj\Debug\net5.0\dotnetTodoRefactor.pdb
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\obj\Debug\net5.0\dotnetTodoRefactor.genruntimeconfig.cache
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\client\build\manifest.json
+E:\documents\SDMM student files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\obj\Debug\net5.0\dotnetTodoRefactor.csproj.AssemblyReference.cache
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\dotnetTodoRefactor.exe
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\dotnetTodoRefactor.dll
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\DotNetEnv.dll
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\Npgsql.dll
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\Sprache.dll
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\appsettings.Development.json
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\appsettings.json
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\client\build\asset-manifest.json
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\client\build\manifest.json
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\client\package-lock.json
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\client\package.json
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\client\public\manifest.json
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\obj\Debug\net5.0\dotnetTodoRefactor.GeneratedMSBuildEditorConfig.editorconfig
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\obj\Debug\net5.0\dotnetTodoRefactor.AssemblyInfoInputs.cache
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\obj\Debug\net5.0\dotnetTodoRefactor.AssemblyInfo.cs
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\obj\Debug\net5.0\dotnetTodoRefactor.csproj.CoreCompileInputs.cache
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\obj\Debug\net5.0\dotnetTodoRefactor.MvcApplicationPartsAssemblyInfo.cs
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\obj\Debug\net5.0\dotnetTodoRefactor.MvcApplicationPartsAssemblyInfo.cache
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\obj\Debug\net5.0\scopedcss\bundle\dotnetTodoRefactor.styles.css
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\obj\Debug\net5.0\staticwebassets\dotnetTodoRefactor.StaticWebAssets.Manifest.cache
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\obj\Debug\net5.0\dotnetTodoRefactor.RazorTargetAssemblyInfo.cache
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\obj\Debug\net5.0\dotnetTodoRefactor.csproj.CopyComplete
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\obj\Debug\net5.0\dotnetTodoRefactor.dll
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\obj\Debug\net5.0\ref\dotnetTodoRefactor.dll
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\obj\Debug\net5.0\dotnetTodoRefactor.pdb
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\dotnetTodoRefactor.deps.json
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\dotnetTodoRefactor.runtimeconfig.json
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\dotnetTodoRefactor.runtimeconfig.dev.json
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\ref\dotnetTodoRefactor.dll
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\bin\Debug\net5.0\dotnetTodoRefactor.pdb
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\obj\Debug\net5.0\dotnetTodoRefactor.genruntimeconfig.cache
+E:\documents\SDMM  files\Murphy, Dan\cSharpTodoReview\dotnetTodoRefactor\dotnetTodoRefactor\obj\Debug\net5.0\dotnetTodoRefactor.csproj.AssemblyReference.cache
